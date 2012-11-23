@@ -49,3 +49,4 @@ Can be used from within PostgreSQL!
 - Strings: simple. Also includes things which look like ints.
 - Lists: super-fast push and pop. Obviously great for queues.
 - Sets: Have unqiue elements but otherwise like lists. Does all the proper maths stuff.
+- Sorted sets: Sets with a score.
