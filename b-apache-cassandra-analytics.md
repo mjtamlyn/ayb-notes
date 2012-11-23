@@ -11,3 +11,5 @@ Multi-master architecture, tunable consistency and great for multi-datacenter su
 ## Data model
 
 Row-key - easy to access stuff across a row. But each column can have compound keys.
+
+This means that the schemas are very flexible - and the rows can be *VERY* wide.
