@@ -8,4 +8,6 @@ A revolution! We invented tools. And that's awesome. Now other animals do that, 
 
 ## Git
 
-It's amazing at storing code. How is it for data?
+It's amazing at storing code. How is it for data? Developed gaskit.
+
+Disclaimer: NoSQL is marketing bollocks.
