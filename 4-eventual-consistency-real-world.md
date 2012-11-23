@@ -37,7 +37,7 @@ Read repair means if a node goes down and there are two versions then the handle
 
 aka siblings. Now we don't store timestamps, but that's observed. So we tell causality with something like commit hashes, called vector clocks. Riak will actually give you back multiple values. You are then in control of how to resolve those sort of weird conflicts.
 
-Opinions:
+Opinions/approaches:
 
 - Never just pick a particular one!
 - Merge the two together
