@@ -21,3 +21,5 @@ Cookies - they're not really offline.
 SQL in the browser - SQLite (probably?). The situation is messy, but hey ho. There are different apis, which may or may not be the same thing. Not in IE or FF.
 
 SQLite is an implementation NOT a standard.
+
+Relational data on the client is questionable...
