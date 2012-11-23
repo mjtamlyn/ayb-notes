@@ -18,4 +18,4 @@ Basics: psql is your friend. It's really easy to do stuff and it tab completes. 
 
 Datatypes! We have many. Really awesome one - arrays. Works great for tagging. Timezonetz is really awesome too.
 
-Extensions! Many of them. citext - case insensitive text. hstore - KV store in your SQLs. Now we also have JSON - this validates itself which is good, but then we add PLV8 - run a language inside your db.
+Extensions! Many of them. citext - case insensitive text. hstore - KV store in your SQLs. Now we also have JSON - this validates itself which is good, but then we add PLV8 - run a language inside your db. Lol Javascript injection attacks.
