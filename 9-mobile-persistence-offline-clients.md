@@ -27,3 +27,5 @@ Relational data on the client is questionable... Likely you want something else 
 Ok, so web storage: let's hack you! But it's syncronous, data size is limited, no complex types or querying...
 
 Remember that "supported basically everywhere" isn't the same as "supported everywhere"... Opera mini is 15% globally.
+
+Ok, so we need async api, transactional etc. Solve ALL the problems. Renamed to Indexed DB (not simple...).
