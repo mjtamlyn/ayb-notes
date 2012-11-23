@@ -25,3 +25,5 @@ So, how do we store data in it? The naive way is to create a repo and dump thing
 So what's the data model of git? In `.git/objects` there's a load of files - commits, trees or blobs. Blobs are basically files, then we make a tree from that blob which gives blobs names, and trees point to ther trees, and commits point to a particular tree. They also look at parent versions. Last kind of object is a reference, in this case called "master" which points to a commit.
 
 An update! We create a new blob, a new tree to go with that and a new commit. This commit has a parent and it says where we came from so we can walk through what happened.
+
+Let's do it programattically!
