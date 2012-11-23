@@ -13,3 +13,7 @@ Multi-master architecture, tunable consistency and great for multi-datacenter su
 Row-key - easy to access stuff across a row. But each column can have compound keys.
 
 This means that the schemas are very flexible - and the rows can be *VERY* wide.
+
+## Tunable consistency
+
+You can specify ONE, QUORUM or ALL depending on how you want to store things.
