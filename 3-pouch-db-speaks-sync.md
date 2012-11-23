@@ -17,3 +17,5 @@ Lots of good things, but the main interesting point is master-master replication
 ## Pouch db
 
 Designed for building offline applications. Works well offline and allows you to sync data. Sync always happens in the background.
+
+It's been developed in spurts, really busy for a while then really quiet.
