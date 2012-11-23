@@ -21,3 +21,5 @@ Designed for building offline applications. Works well offline and allows you to
 It's been developed in spurts, really busy for a while then really quiet. Lol jobs. But it's now at the point where people can (and need) to use it.
 
 New adapters in progress/newly merged. More docs etc coming. Lots of good projects coming, like backbone integration etc.
+
+It was kind of before its time, WebSQL and IndexedDB is only just becoming stable. We're also in the days before armies of NodeJS devs...
