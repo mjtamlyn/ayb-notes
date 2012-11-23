@@ -65,3 +65,7 @@ Find it yourself.
 ### Concurrency
 
 Er, no chance.
+
+### Merge conflicts
+
+Merge it automatically or you've got a very unhelpful format of knowing what was wrong.
