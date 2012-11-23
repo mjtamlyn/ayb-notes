@@ -51,3 +51,7 @@ Can be used from within PostgreSQL!
 - Sets: Have unqiue elements but otherwise like lists. Does all the proper maths stuff.
 - Sorted sets: Sets with a score.
 - Hashes: Like normal dicts, but string only values.
+
+### More gubbins
+
+Basic transactions, server commands like "save now!", replication
