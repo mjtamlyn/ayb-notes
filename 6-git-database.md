@@ -16,4 +16,8 @@ Disclaimer: NoSQL is marketing bollocks. Non-relational and often schema-less.
 2. Features
 3. Anti-features
 
+## Data store
+
+`$ man git > the stupid content tracker`
+
 
