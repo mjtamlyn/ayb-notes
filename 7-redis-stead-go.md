@@ -16,4 +16,4 @@ Let's store some strings...
 
 Like an assembly language.
 
-So Redis is a DSL for abstract data types.
+So Redis is a DSL for abstract data types. Open source, from 2009. Full time dev from 2010. It's basically memcached++ - more commands, presistence, data types and more.
