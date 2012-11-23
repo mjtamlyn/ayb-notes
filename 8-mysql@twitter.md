@@ -17,3 +17,7 @@ DBAs and Engineers bascially have to trust each other.
 ### Why MySQL?
 
 Pretty fast, usually. Robust, replication usually works. It's easy to use and easy to run. Hiring is easier!
+
+### Why not?
+
+Really bad at ID generation at scale. Not so good at graphs. Replication sucks. Stability vs fancy new features?
