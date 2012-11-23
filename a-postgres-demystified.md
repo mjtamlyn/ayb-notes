@@ -18,4 +18,4 @@ Basics: psql is your friend. It's really easy to do stuff and it tab completes. 
 
 Datatypes! We have many. Really awesome one - arrays. Works great for tagging. Timezonetz is really awesome too.
 
-Extensions! Many of them.
+Extensions! Many of them. citext - case insensitive text. hstore - KV store in your SQLs.
