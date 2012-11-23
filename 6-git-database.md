@@ -52,4 +52,8 @@ These are basically commits - many changes can happen together. There can be rea
 
 ### Replication
 
-Every clone is a full copy of the data, and that's pretty cool.
+Every clone is a full copy of the data, and that's pretty cool. Now we can do that replication in hooks... or not.
+
+## Anti-features
+
+All the features - they're not here.
