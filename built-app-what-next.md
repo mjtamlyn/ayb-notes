@@ -36,4 +36,13 @@ Obviously read scaleability can come from this as you can read from the secondar
 
 ### Tunable data durability
 
-RDBMS
+RDBMS is good at make sure everything is written to disk. Mongo allows us to do every level from fire and hope to 'ensure that it has synced to every other data centre, maybe even across geographies'.
+
+### Other features
+
+- Capped collection: limit by size (FIFO)
+- Time to live collections: automatically expire data after a period of time.
+
+## So how does mongo stack up?
+
+Build a DB for scaleout. Enables agile well. Uses lots of JSON inside which is simple and easily maps to OO.
