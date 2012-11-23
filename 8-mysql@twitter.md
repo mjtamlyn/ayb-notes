@@ -10,4 +10,4 @@ Architecture is Sharded master slave.
 
 Pragmatism: use commodities, queues and async, eventual consistency, some delay tolerance, new awesome tools *if* needed, and use MySQL if it works, something else when it doesn't.
 
-Always soft launch things, and increase the numbers slowly to see what the impact is.
+Always soft launch things, and increase the numbers slowly to see what the impact is. Iterate and improve, and never roll back.
