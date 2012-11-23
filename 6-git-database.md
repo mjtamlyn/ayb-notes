@@ -23,3 +23,5 @@ Disclaimer: NoSQL is marketing bollocks. Non-relational and often schema-less.
 So, how do we store data in it? The naive way is to create a repo and dump things in files, and commit them. TADA! But this is just the file system right?
 
 So what's the data model of git? In `.git/objects` there's a load of files - commits, trees or blobs. Blobs are basically files, then we make a tree from that blob which gives blobs names, and trees point to ther trees, and commits point to a particular tree. They also look at parent versions. Last kind of object is a reference, in this case called "master" which points to a commit.
+
+An update! We create a new blob, a new tree to go with that and a new commit.
