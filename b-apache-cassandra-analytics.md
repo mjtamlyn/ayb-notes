@@ -16,4 +16,4 @@ This means that the schemas are very flexible - and the rows can be *VERY* wide.
 
 ## Tunable consistency
 
-You can specify ONE, QUORUM or ALL depending on how you want to store things.
+You can specify ONE, QUORUM or ALL depending on how you want to store things. ALL will never work if it's "ok".
