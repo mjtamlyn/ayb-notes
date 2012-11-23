@@ -12,4 +12,4 @@ Charm is not enough, can we succeed next time. All the original creators of MySQ
 
 ## History
 
-Most of the original MySQL engineers left before Sun was bought by Oracle and started to work on MariaDB. So MySQL was the first bit of free software they produced out, with dual licensing to allow full time work. Profitable in 2 months. Challenges of growing...
+Most of the original MySQL engineers left before Sun was bought by Oracle and started to work on MariaDB. So MySQL was the first bit of free software they produced out, with dual licensing to allow full time work. Profitable in 2 months. Challenges of growing... Up to 1999 it was all small progress and a lot of things were done. About 30,000 support emails sent getting MySQL popular.
