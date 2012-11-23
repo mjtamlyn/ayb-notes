@@ -30,4 +30,4 @@ So sharding allows us to scale reads and writes. What happens when a node fails?
 
 Replica the sets across. The db automatically selects a secondary to be promoted if the first one fails. When one recovers and works, it then catches up and the promotes itself to a full secondary status. This is all the sort of thing which 'just happens' in the background.
 
-Obviously read scaleability can come from this as you can read from the secondaries, but the system is asyncronous.
+Obviously read scaleability can come from this as you can read from the secondaries, but the system is asyncronous, so you have to be careful as to when you get things.
