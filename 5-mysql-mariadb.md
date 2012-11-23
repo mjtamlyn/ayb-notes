@@ -30,4 +30,4 @@ This is now a fork of MySQL. Developed by Monty Program Ab, which doesn't own th
 
 SkySQL is a strategic partner who provide support/hosting. Purpose isn't to remove all of the MySQL stuff.
 
-MariaDB is a MySQL fork with a GPL-only license. It's basically the same thing. Public license.
+MariaDB is a MySQL fork with a GPL-only license. It's basically the same thing. Public license. A huge number of new features in a few years, which haven't (and will probably never) end up in MySQL itself.
