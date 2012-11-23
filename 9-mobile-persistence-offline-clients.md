@@ -29,3 +29,5 @@ Ok, so web storage: let's hack you! But it's syncronous, data size is limited, n
 Remember that "supported basically everywhere" isn't the same as "supported everywhere"... Opera mini is 15% globally.
 
 Ok, so we need async api, transactional etc. Solve ALL the problems. Renamed to Indexed DB (not simple...). It's not very nice but it's better.
+
+Anyway, hence **lawnchair**.
