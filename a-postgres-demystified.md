@@ -60,4 +60,4 @@ pg\_stats statements - good for checking stuff
 
 Fuzzystrmatch - cool for looking at "similar" strings.
 
-Moving data - there's a COPY statement.
+Moving data - there's a COPY statement. You can do this with a `db_link` and query across dbs.
