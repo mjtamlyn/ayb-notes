@@ -15,4 +15,6 @@ This became the CAP theorem proved in 2002 at MIT.
 
 Because patition tolerance is hard to not have, it's basically consistency OR availability.
 
+## Life is full of trade-offs
+
 
