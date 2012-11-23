@@ -4,4 +4,4 @@
 
 ## 2 million years ago...
 
-A revolution!
+A revolution! We invented tools. And that's awesome.
