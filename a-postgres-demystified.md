@@ -20,4 +20,6 @@ Datatypes! We have many. Really awesome one - arrays. Works great for tagging. T
 
 Extensions! Many of them. citext - case insensitive text. hstore - KV store in your SQLs. Now we also have JSON - this validates itself which is good, but then we add PLV8 - run a language inside your db. Lol Javascript injection attacks.
 
-Range types - great for from-to timestamps.
+Range types - great for from-to timestamps. This can be used to prevent time conflicts.
+
+Full text search works pretty well, for a good number of rows.
