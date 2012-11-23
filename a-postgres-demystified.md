@@ -15,3 +15,5 @@ The naming is it's biggest mistake. It's community owned, around since 1989/1995
 It's a emacs of databases... Or the vim.
 
 Basics: psql is your friend. It's really easy to do stuff and it tab completes. `\e` allows you to edit the commands directly in an editor.
+
+Datatypes! We have many. Really awesome one - arrays. Works great for tagging.
