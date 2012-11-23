@@ -32,7 +32,7 @@ Ok, so we need async api, transactional etc. Solve ALL the problems. Renamed to 
 
 Anyway, hence **lawnchair**, which hides all this behind a better api.
 
-Evil things:
+### Evil things on the web
 
 - You can use flash to set unkillable cookies.
 - window.name can be used to store unlimited data and it works for X-domain... and totally insecure.
