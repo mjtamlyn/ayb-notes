@@ -27,3 +27,5 @@ Full text search works pretty well, for a good number of rows.
 Low level GIS works out of the box, or use PostGIS for more advanced stuff that's optimised.
 
 ## Performance
+
+Sequential scans. They're normally bad. Indexes are good most of the time.
