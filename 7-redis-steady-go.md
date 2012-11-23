@@ -40,4 +40,4 @@ You get basic data types like ints, sets, lists etc. It's aso got expiry so can 
 
 ## Characteristics
 
-Single threaded, event driven. Very high performance, but can be limited. Every operation is atomic so it's easy to make sure data isn't mucked up. Expiry is cool. Everything is stored in memory! Every now and then stuff gets changed it will be persistent.
+Single threaded, event driven. Very high performance, but can be limited. Every operation is atomic so it's easy to make sure data isn't mucked up. Expiry is cool. Everything is stored in memory! Every now and then stuff gets changed it will be persistent. Mainly it's FAST. Plenty language support. Good to look at redis\_wrap which is basically more direct mapping to python data types.
