@@ -36,4 +36,8 @@ Also:
 
 - Real time logging
 
-You get basic data types like ints, sets, lists etc. It's aso got expiry so can be used for rate logging.
+You get basic data types like ints, sets, lists etc. It's aso got expiry so can be used for rate logging. It's good for scoreboards and sorted sets are ideal.
+
+## Characteristics
+
+Single threaded, event driven. Very high performance, but can be limited. Every operation is atomic so it's easy to make sure data isn't mucked up.
