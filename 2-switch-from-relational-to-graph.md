@@ -53,4 +53,4 @@ One of the bluprints for Orient can follow 29.6M records in 5 seconds. Days on a
 > create edge...
 ```
 
-Bindings in most languages.
+Bindings in most languages which are just as natural to use.
