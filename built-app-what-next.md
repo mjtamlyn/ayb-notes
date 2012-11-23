@@ -46,3 +46,7 @@ RDBMS is good at make sure everything is written to disk. Mongo allows us to do 
 ## So how does mongo stack up?
 
 Build a DB for scaleout. Enables agile well. Uses lots of JSON inside which is simple and easily maps to OO.
+
+### Why mess with the data model?
+
+Well we have to join lots of stuff and all of this works on a RDBMS. This sucks in a distributed system so you have to be much more careful with how you move things to avoid really bad latency. So we can store the data differently so that don't have to do that. So Mongo would store everything together with the things it would 'FK'.
