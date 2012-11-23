@@ -21,3 +21,5 @@ Pretty fast, usually. Robust, replication usually works. It's easy to use and ea
 ### Why not?
 
 Really bad at ID generation at scale. Not so good at graphs. Replication sucks. Stability vs fancy new features?
+
+"Large datasets" (>1.5 TB!)
