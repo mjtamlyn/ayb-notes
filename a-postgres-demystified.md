@@ -59,3 +59,5 @@ pg\_stats statements - good for checking stuff
 "who's my biggest spender by state?" Really good for these kind of statements.
 
 Fuzzystrmatch - cool for looking at "similar" strings.
+
+Moving data - there's a COPY statement.
