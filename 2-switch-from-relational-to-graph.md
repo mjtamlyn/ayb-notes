@@ -29,4 +29,4 @@ Order <-> Stock
 
 Relational word means we join things together in 1-1 relationships. 1-N relationships need to go back the other way. N-M means we now need an intermediary table between the two.
 
-JOINS are evil! We have to do all of these joins all the time and on large data they can be very costly. Best case is to index it, but big relatinos can cause problems.
+JOINS are evil! We have to do all of these joins all the time and on large data they can be very costly. Best case is to index it, but big relatinos can cause problems. How fast is an index lookup?
