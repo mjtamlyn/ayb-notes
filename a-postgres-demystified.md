@@ -54,4 +54,8 @@ pg\_stats statements - good for checking stuff
 
 ## Querying
 
-Window functions
+### Window functions
+
+"who's my biggest spender by state?" Really good for these kind of statements.
+
+Fuzzystrmatch - cool for looking at "similar" strings.
