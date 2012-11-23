@@ -8,4 +8,4 @@ Lots of travelling and meeting interesting people. Combined with working from ho
 
 ## Origin of Maria
 
-Charm is not enough, can we succeed next time. All the original creators at there.
+Charm is not enough, can we succeed next time. All the original creators of MySQL are there.
