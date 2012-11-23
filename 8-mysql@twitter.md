@@ -26,4 +26,4 @@ Really bad at ID generation at scale. Not so good at graphs. Replication sucks. 
 
 ### Challenges
 
-Temporal sharding worked for a while, but not for long.
+Temporal sharding worked for a while, but not for long. The new shards got far too hot.
