@@ -43,3 +43,4 @@ Opinions:
 - Merge the two together
 - Take the union of all siblings in the array
 - For timestamps, either the minimum or the maximum depending on which one it was
+- Update with a time sorted list
