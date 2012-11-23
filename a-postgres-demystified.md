@@ -65,3 +65,8 @@ Moving data - there's a COPY statement. You can do this with a `db_link` and que
 Foreign data wrappers - access redis or whatever from within Postgres. Pretty cool - not all equal...
 
 Readability! Common expressions are really useful.
+
+## Extras!
+
+Listen/Notify - PubSub in Postgres
+Per transaction sync replication
