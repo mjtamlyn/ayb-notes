@@ -27,3 +27,5 @@ So what's the data model of git? In `.git/objects` there's a load of files - com
 An update! We create a new blob, a new tree to go with that and a new commit. This commit has a parent and it says where we came from so we can walk through what happened.
 
 Let's do it programattically! Grit (a ruby lib) or libgit2 which is a C implementation with various bindings.
+
+Let's look at grit a bit - grab a repo, create a new index that we can modify, get the head and copy the state to our index. We can then explicitly add the content and commit it with the history, and update the head.
