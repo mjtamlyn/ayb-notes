@@ -31,3 +31,7 @@ Real time analytics: Write dominated, updates are rare. Mostly read "results". D
 So an example is twitter's promoted tweets. They have big numbers and difficult to calculate it. It's all numbers, so we count. This sort of query would have to process about 4.2TB of data.
 
 Basically we do this by storing keys/values carefully.
+
+## Acunu
+
+Denormalises on top of Cassandra - you build the queries you want (which tend to be simple) and it'll move the calculation and storage step out of your head.
