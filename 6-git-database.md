@@ -29,3 +29,5 @@ An update! We create a new blob, a new tree to go with that and a new commit. Th
 Let's do it programattically! Grit (a ruby lib) or libgit2 which is a C implementation with various bindings.
 
 Let's look at grit a bit - grab a repo, create a new index that we can modify, get the head and copy the state to our index. We can then explicitly add the content and commit it with the history, and update the head. Reading is simple, we can get things out of it in the same way.
+
+Too much work! Where's my ORM? Some libraries: Toystore + AdapterGit or GitModel.
