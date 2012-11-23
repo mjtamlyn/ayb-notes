@@ -29,3 +29,5 @@ Really bad at ID generation at scale. Not so good at graphs. Replication sucks. 
 Temporal sharding worked for a while, but not for long. The new shards got far too hot. Started to need a new DB cluster every week...
 
 Snowflake - Generate unique IDs, non-sequential but ordered. Distributed, highly available, uncoordinated.
+
+Primary storage for everything, peripheral services, multi-data center, MySQL is a building block.
