@@ -57,3 +57,11 @@ Every clone is a full copy of the data, and that's pretty cool. Now we can do th
 ## Anti-features
 
 All the features - they're not here.
+
+### Querying!
+
+Find it yourself.
+
+### Concurrency
+
+Er, no chance.
