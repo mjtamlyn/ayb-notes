@@ -27,3 +27,5 @@ The write goes everywhere (eventually).
 Session stores: Read dominated, updates and it probably fits in RAM. Distribute for availability. Really what we want is atomicity - test then set thing.
 
 Real time analytics: Write dominated, updates are rare. Mostly read "results". Distributed for availability, performance and capacity. We want rich queries.
+
+So an example is twitter's promoted tweets. They have big numbers and difficult to calculate it.
