@@ -62,4 +62,4 @@ Fuzzystrmatch - cool for looking at "similar" strings.
 
 Moving data - there's a COPY statement. You can do this with a `db_link` and query across dbs.
 
-Foreign data wrappers - access redis or whatever from within Postgres.
+Foreign data wrappers - access redis or whatever from within Postgres. Pretty cool - not all equal...
