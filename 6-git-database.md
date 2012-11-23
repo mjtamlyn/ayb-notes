@@ -41,3 +41,7 @@ We can look back at previous issues really easily. Related is diffs - what chang
 ### Hooks
 
 We can use these to update caches, alternate formats or index searches.
+
+### Non-relational
+
+Question everything about relational data design. There's no Big Design Up Front - you optimize the storage based on the usage patterns. We're schemaless and we can change the data as we go along.
