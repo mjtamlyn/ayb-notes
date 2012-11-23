@@ -24,4 +24,4 @@ The write goes everywhere (eventually).
 
 ## Use cases
 
-Session stores: Read dominated, updates and it probably fits in RAM. Distribute for availability.
+Session stores: Read dominated, updates and it probably fits in RAM. Distribute for availability. Really what we want is atomicity.
