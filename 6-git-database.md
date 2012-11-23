@@ -48,4 +48,4 @@ Question everything about relational data design. There's no Big Design Up Front
 
 ### Transactions
 
-These are basically commits - many changes can happen together.
+These are basically commits - many changes can happen together. There can be really long lived ones - they're called branches!
