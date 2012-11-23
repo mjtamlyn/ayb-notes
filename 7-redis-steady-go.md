@@ -47,4 +47,4 @@ Can be used from within PostgreSQL!
 ### Data types
 
 - Strings: simple. Also includes things which look like ints.
-- 
+- Lists: super-fast push and pop.
