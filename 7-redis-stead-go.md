@@ -21,3 +21,19 @@ So Redis is a DSL for abstract data types. Open source, from 2009. Full time dev
 ## LIVE DEMO!
 
 From source to working over telnet in under a minute. Impressive!
+
+## Back to the talk
+
+Hosting is available, but it's latent that way.
+
+## Three big uses
+
+- As a database
+- As a messaging service
+- As a cache
+
+Also:
+
+- Real time logging
+
+You get basic data types like ints, sets, lists etc. It's aso got expiry so can be used for rate logging.
