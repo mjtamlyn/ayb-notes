@@ -8,6 +8,4 @@ Antirez wrote it.
 
 ## What is Redis?
 
-Remote dictionary server (or hash server). It's a data structure server? But... No 'tables', SQL, enforced relationships... Lots of 'primitives'.
-
-It's just keys and values!
+Remote dictionary server (or hash server). It's a data structure server? But... No 'tables', SQL, enforced relationships... Lots of 'primitives'. It's just keys and values!
