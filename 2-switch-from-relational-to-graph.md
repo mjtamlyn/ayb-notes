@@ -41,4 +41,16 @@ How fast is an index lookup? Normally a binary split lookup, but the bigger the 
 
 Open source NoSQL dbms with transactions, extended-SQL, master-master replication etc. but has graph model!
 
-Traverse a relationship is easy - each vertex knows about its edges. It's a physical link! But with RDBMS you have to do this every time - *CRAZY*!
+Traverse a relationship is easy - each vertex knows about its edges. It's a physical link! But with RDBMS you have to do this every time - *CRAZY*! Algorithmically, we're `O(logN) -> O(1)`ish.
+
+One of the bluprints for Orient can follow 29.6M records in 5 seconds. Days on an RDBMS.
+
+### Creating the graph
+
+```
+> create vertex Customer set name = 'luca'
+> create vertex Address set name = 'Rome'
+> create edge...
+```
+
+Bindings in most languages.
