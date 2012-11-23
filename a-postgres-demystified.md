@@ -43,3 +43,5 @@ So let's do a simple index - its now an index scan and we're 1.7ms.
 `CREATE INDEX CONCURRENTLY` - does this in the background. 2-3x Slower, but useful.
 
 Conditional indexes - `CREATE INDEX WHERE...`
+
+`LIKE %foo%` is BAD. One at the end is ok though.
