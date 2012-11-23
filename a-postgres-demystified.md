@@ -50,4 +50,8 @@ Conditional indexes - `CREATE INDEX WHERE...`
 
 Cache hit rate: This is a mega useful query. Tells you how often you're hitting cache not the db. This, and the corresponding Index hit rate should be 99%+.
 
-pg\_stats statements
+pg\_stats statements - good for checking stuff
+
+## Querying
+
+Window functions
