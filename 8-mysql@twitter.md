@@ -33,3 +33,5 @@ Snowflake - Generate unique IDs, non-sequential but ordered. Distributed, highly
 Primary storage for everything, peripheral services, multi-data center, MySQL is a building block.
 
 Gizzard is a (huge) data storage framework. On top of MySQL and provides all the bits you need. It has other stuff on top of it for specific storage problems.
+
+They have their own fork which fixes some of the bugs, is optimised for SSDs and a few useful monitoring tools.
