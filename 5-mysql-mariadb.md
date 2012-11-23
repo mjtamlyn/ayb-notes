@@ -22,4 +22,8 @@ Started to take in investors to drive the company forwards. Choices:
 
 Last one was the best option.
 
-Then Sun happened.
+Then Sun happened. You get money but loose control. Internal decision was to go public in 2008. Eventually it was decided to sell it to Sun to avoid closing the source. (Ha!)
+
+## Now MariaDB
+
+This is now a fork of MySQL, which doesn't own the MariaDB project. It's a full hacking business model with the company owned by the company and is purely techincal and high level consulting.
