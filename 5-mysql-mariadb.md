@@ -20,4 +20,6 @@ Started to take in investors to drive the company forwards. Choices:
 - Sell
 - Take in investors
 
-Last one was the best option
+Last one was the best option.
+
+Then Sun happened.
