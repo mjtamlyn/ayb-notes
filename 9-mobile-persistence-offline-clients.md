@@ -41,4 +41,4 @@ Anyway, hence **lawnchair**, which hides all this behind a better api.
 
 ### FirefoxOS
 
-Gecko on a Linux kernel and running an OS inside a browser. There's a proposed Archive API which allows live updating of code. Packaged apps are happening - they're all going that way.
+Gecko on a Linux kernel and running an OS inside a browser. There's a proposed Archive API which allows live updating of code. Packaged apps are happening - they're all going that way. App Cache lets you package apps, but it's also fucked.
