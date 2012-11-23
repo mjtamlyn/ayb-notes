@@ -50,3 +50,4 @@ Can be used from within PostgreSQL!
 - Lists: super-fast push and pop. Obviously great for queues.
 - Sets: Have unqiue elements but otherwise like lists. Does all the proper maths stuff.
 - Sorted sets: Sets with a score.
+- Hashes: Like normal dicts, but string only values.
