@@ -35,4 +35,4 @@ Read repair means if a node goes down and there are two versions then the handle
 
 ## Divergent object versions
 
-aka siblings. Now we don't store timestamps, but that's observed. So we tell causality with something like commit hashes.
+aka siblings. Now we don't store timestamps, but that's observed. So we tell causality with something like commit hashes, called vector clocks.
