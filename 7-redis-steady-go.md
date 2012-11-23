@@ -54,4 +54,4 @@ Can be used from within PostgreSQL!
 
 ### More gubbins
 
-Basic transactions, server commands like "save now!", replication
+Basic transactions, server commands like "save now!", replication (easily with a slave), good at live replacement, sentinel is coming, 
