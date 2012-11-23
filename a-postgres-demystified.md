@@ -41,3 +41,5 @@ So let's do a simple index - its now an index scan and we're 1.7ms.
 ### Index pro tips
 
 `CREATE INDEX CONCURRENTLY` - does this in the background. 2-3x Slower, but useful.
+
+Conditional indexes - `CREATE INDEX WHERE...`
