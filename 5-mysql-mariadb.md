@@ -9,3 +9,7 @@ Lots of travelling and meeting interesting people. Combined with working from ho
 ## Origin of Maria
 
 Charm is not enough, can we succeed next time. All the original creators of MySQL are there.
+
+## History
+
+Most of the original MySQL engineers left before Sun was bought by Oracle and started to work on MariaDB.
