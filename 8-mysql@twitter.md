@@ -12,4 +12,4 @@ Pragmatism: use commodities, queues and async, eventual consistency, some delay 
 
 Always soft launch things, and increase the numbers slowly to see what the impact is. Iterate and improve, and never roll back.
 
-DBAs and Engineers bascially have to trust eachother.
+DBAs and Engineers bascially have to trust each other.
