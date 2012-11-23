@@ -6,4 +6,4 @@ MySQL does still scale! The numbers are mental - 400M tweets per day.
 
 Architecture is Sharded master slave.
 
-8 Full time DBAs working on 1000s of dbs. That team supports ~600 engineers.
+8 Full time DBAs working on 1000s of dbs. That team supports ~600 engineers. Pragmatism: use commodities, queues and async, eventual consistency, some delay tolerance, new awesome tools *if* needed, and use MySQL if it works, something else when it doesn't.
