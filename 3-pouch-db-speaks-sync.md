@@ -25,3 +25,5 @@ New adapters in progress/newly merged. More docs etc coming. Lots of good projec
 It was kind of before its time, WebSQL and IndexedDB is only just becoming stable. We're also in the days before armies of NodeJS devs...
 
 ## Offline is a fact, and sync is HARD.
+
+
