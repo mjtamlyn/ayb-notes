@@ -22,4 +22,6 @@ SQL in the browser - SQLite (probably?). The situation is messy, but hey ho. The
 
 SQLite is an implementation NOT a standard.
 
-Relational data on the client is questionable...
+Relational data on the client is questionable... Likely you want something else anyway.
+
+Ok, so web storage: let's hack you!
