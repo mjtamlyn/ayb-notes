@@ -35,6 +35,6 @@ How fast is an index lookup? Normally a binary split lookup, but the bigger the 
 
 ### A better way?
 
-> A graph db provides index-free adjacency
+> A graph db provides index-free adjacency - Marko Rodriguez
 
 
