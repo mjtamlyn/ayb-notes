@@ -12,8 +12,12 @@ Remote dictionary server (or hash server). It's a data structure server? But... 
 
 Let's store some strings...
 
-`SET A = 'hello' - > GET A`
+`SET A hello - > GET A`
 
 Like an assembly language.
 
 So Redis is a DSL for abstract data types. Open source, from 2009. Full time dev from 2010. It's basically memcached++ - more commands, presistence, data types and more.
+
+## LIVE DEMO!
+
+From source to working over telnet in under a minute. Impressive!
