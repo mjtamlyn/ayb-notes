@@ -30,4 +30,10 @@ Remember that "supported basically everywhere" isn't the same as "supported ever
 
 Ok, so we need async api, transactional etc. Solve ALL the problems. Renamed to Indexed DB (not simple...). It's not very nice but it's better.
 
-Anyway, hence **lawnchair**.
+Anyway, hence **lawnchair**, which hides all this behind a better api.
+
+Evil things:
+
+- You can use flash to set unkillable cookies.
+- window.name can be used to store unlimited data and it works for X-domain... and totally insecure.
+- Web sockets could now open a DB connection themselves. NSFL?
