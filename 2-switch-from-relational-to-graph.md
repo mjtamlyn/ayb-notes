@@ -62,4 +62,4 @@ Query?
 Customer 'Luca'
 ```
 
-Can get sums and follow all connections to an arbitrary depth.
+Can get sums and follow all connections to an arbitrary depth, and filter while you're at it.
