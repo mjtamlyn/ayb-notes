@@ -31,3 +31,9 @@ Let's do it programattically! Grit (a ruby lib) or libgit2 which is a C implemen
 Let's look at grit a bit - grab a repo, create a new index that we can modify, get the head and copy the state to our index. We can then explicitly add the content and commit it with the history, and update the head. Reading is simple, we can get things out of it in the same way.
 
 Too much work! Where's my ORM? Some libraries: Toystore + AdapterGit or GitModel. It kinda looks and works a bit like ActiveRecord.
+
+## Features!
+
+### Versioning
+
+We can look back at previous issues really easily.
