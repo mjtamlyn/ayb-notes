@@ -45,3 +45,7 @@ So let's do a simple index - its now an index scan and we're 1.7ms.
 Conditional indexes - `CREATE INDEX WHERE...`
 
 `LIKE %foo%` is BAD. One at the end is ok though.
+
+### Monitoring
+
+Cache hit rate: This is a mega useful query. Tells you how often you're hitting cache not the db.
