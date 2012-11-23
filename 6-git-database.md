@@ -72,4 +72,4 @@ Merge it automatically or you've got a very unhelpful format of knowing what was
 
 ### Scale?
 
-Git is not web scale. Commits per second? Nearly 100!
+Git is not web scale. Commits per second? Nearly 100! But that's a major bottleneck.
