@@ -54,3 +54,12 @@ One of the bluprints for Orient can follow 29.6M records in 5 seconds. Days on a
 ```
 
 Bindings in most languages which are just as natural to use.
+
+Query?
+
+```
+> select in.out from Address where name = 'Rome'
+Customer 'Luca'
+```
+
+Can get sums and follow all connections to an arbitrary depth.
