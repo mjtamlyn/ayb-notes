@@ -68,5 +68,6 @@ Readability! Common expressions are really useful.
 
 ## Extras!
 
-Listen/Notify - PubSub in Postgres
-Per transaction sync replication
+- Listen/Notify - PubSub in Postgres
+- Per transaction sync replication
+- SELECT for UPDATE
