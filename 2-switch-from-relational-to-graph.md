@@ -37,4 +37,8 @@ How fast is an index lookup? Normally a binary split lookup, but the bigger the 
 
 > A graph db provides index-free adjacency
 
+### Introducing... OrientDB
 
+Open source NoSQL dbms with transactions, extended-SQL, master-master replication etc. but has graph model!
+
+Traverse a relationship is easy - each vertex knows about its edges. It's a physical link!
