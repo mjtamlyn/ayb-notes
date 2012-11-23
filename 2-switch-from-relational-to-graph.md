@@ -31,4 +31,4 @@ Relational word means we join things together in 1-1 relationships. 1-N relation
 
 JOINS are evil! We have to do all of these joins all the time and on large data they can be very costly. Best case is to index it, but big relations can cause problems.
 
-How fast is an index lookup? Normally a binary split lookup, but the bigger the data size the more steps it needs.
+How fast is an index lookup? Normally a binary split lookup, but the bigger the data size the more steps it needs. Consequently, RDBMS tend to have preformance implications when the data grows in size.
