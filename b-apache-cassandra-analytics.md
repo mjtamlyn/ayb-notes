@@ -28,4 +28,4 @@ Session stores: Read dominated, updates and it probably fits in RAM. Distribute 
 
 Real time analytics: Write dominated, updates are rare. Mostly read "results". Distributed for availability, performance and capacity. We want rich queries.
 
-So an example is twitter's promoted tweets. They have big numbers and difficult to calculate it.
+So an example is twitter's promoted tweets. They have big numbers and difficult to calculate it. It's all numbers, so we count.
