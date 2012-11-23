@@ -24,4 +24,4 @@ SQLite is an implementation NOT a standard.
 
 Relational data on the client is questionable... Likely you want something else anyway.
 
-Ok, so web storage: let's hack you!
+Ok, so web storage: let's hack you! But it's syncronous, data size is limited, no complex types or querying...
