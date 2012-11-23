@@ -67,3 +67,5 @@ Can get sums and follow all connections to an arbitrary depth, and filter while 
 ### Query vs travel
 
 Once you have a well connected db, you stop querying and travel instead from certain 'root' nodes. So you have a special node called something like 'special customers', and it's connected like a cached query to all the 'special' objects.
+
+Also, your database is pretty! (google graph db visualisation)
