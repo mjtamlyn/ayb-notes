@@ -44,3 +44,4 @@ Opinions:
 - Take the union of all siblings in the array
 - For timestamps, either the minimum or the maximum depending on which one it was
 - Update with a time sorted list
+- Set union the keys between some meta data
