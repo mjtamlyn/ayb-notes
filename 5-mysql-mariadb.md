@@ -26,4 +26,4 @@ Then Sun happened. You get money but loose control. Internal decision was to go 
 
 ## Now MariaDB
 
-This is now a fork of MySQL, which doesn't own the MariaDB project. It's a full hacking business model with the company owned by the company and is purely techincal and high level consulting.
+This is now a fork of MySQL. Developed by Monty Program Ab, which doesn't own the MariaDB project. It's a full hacking business model with the company owned by the company and is purely techincal and high level consulting.
