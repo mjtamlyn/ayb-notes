@@ -19,3 +19,9 @@ This means that the schemas are very flexible - and the rows can be *VERY* wide.
 You can specify ONE, QUORUM or ALL depending on how you want to store things. ALL will never work if it's "ok".
 
 ## Multiple datacenter aware
+
+The write goes everywhere (eventually).
+
+## Use cases
+
+Session stores: Read dominated, updates and it probably fits in RAM. Distribute for availability.
