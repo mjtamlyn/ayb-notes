@@ -9,3 +9,5 @@ So why do RDBMS users not want NoSQL? They're great for big data and big scale, 
 So everyone understands RDBMS, but who knows graph? Time for a crash course!
 
 ## Graph theory
+
+- Vertices and edges, and edge connects to vertices
