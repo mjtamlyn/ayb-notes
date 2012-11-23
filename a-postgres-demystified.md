@@ -48,4 +48,4 @@ Conditional indexes - `CREATE INDEX WHERE...`
 
 ### Monitoring
 
-Cache hit rate: This is a mega useful query. Tells you how often you're hitting cache not the db.
+Cache hit rate: This is a mega useful query. Tells you how often you're hitting cache not the db. This, and the corresponding Index hit rate should be 99%+.
