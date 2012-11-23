@@ -28,4 +28,4 @@ Low level GIS works out of the box, or use PostGIS for more advanced stuff that'
 
 ## Performance
 
-Sequential scans. They're normally bad. Indexes are good most of the time.
+Sequential scans. They're normally bad. Indexes are good most of the time. There's a few different types of index, which are useful.
