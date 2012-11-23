@@ -29,4 +29,4 @@ I don't go to my normal bank every time. I get money out from a distributed syst
 
 ## Back to Riak
 
-
+A single node with a load of partitions. Allows us to detemine data location based on a sha1 hash and a ring topology.
