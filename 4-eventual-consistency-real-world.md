@@ -45,3 +45,7 @@ Opinions/approaches:
 - For timestamps, either the minimum or the maximum depending on which one it was
 - Update with a time sorted list
 - Set union the keys between some meta data
+
+## The world is concurrent
+
+We should model it that way!
