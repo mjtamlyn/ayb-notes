@@ -32,3 +32,6 @@ Sequential scans. They're normally bad. Indexes are good most of the time. There
 
 - B-Tree: this is normally what you want.
 - GIN: great for arrays etc
+- GIST: Full text search and spatial.
+
+`EXPLAIN SELECT FROM ...` This kinda gives you a query plan. `EXPLAIN ANALYSE` gives you the real data.
