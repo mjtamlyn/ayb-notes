@@ -18,4 +18,4 @@ Lol `navigator.onLine`. Why capitalised???!?
 
 Cookies - they're not really offline.
 
-SQL in the browser - SQLite (probably?)
+SQL in the browser - SQLite (probably?). The situation is messy, but hey ho. There are different apis, which may or may not be the same thing.
