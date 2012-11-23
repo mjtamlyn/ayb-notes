@@ -48,4 +48,4 @@ Opinions/approaches:
 
 ## The world is concurrent
 
-We should model it that way!
+We should model it that way! Everyone's perspective is different and there is no single defining viewpoint.
