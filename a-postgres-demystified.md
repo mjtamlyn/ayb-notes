@@ -35,3 +35,5 @@ Sequential scans. They're normally bad. Indexes are good most of the time. There
 - GIST: Full text search and spatial.
 
 `EXPLAIN SELECT FROM ...` This kinda gives you a query plan. `EXPLAIN ANALYSE` gives you the real data.
+
+So let's do a simple index - its now an index scan and we're 1.7ms.
