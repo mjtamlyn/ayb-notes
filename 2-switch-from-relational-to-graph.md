@@ -21,7 +21,9 @@ And that's it! It's very simple and natural to use.
 
 ```
 Customer <-> Address
-  |
+   ^
+   |
+   v
 Order <-> Stock
 ```
 
