@@ -10,4 +10,4 @@ CouchDB, but written for Javascript. JSON used internally. Can be used in indexe
 
 ## CouchDB invented the first telephone...
 
-
+Lots of good things, but the main interesting point is master-master replication. This is awesome for distributed web systems, and it can sync stuff from one server to another.
