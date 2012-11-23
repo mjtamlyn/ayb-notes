@@ -11,3 +11,5 @@ Need a database that... is scaleable easily.
 It's not easy. There's a tradeoff between scale and functionality. Mongo sits in the middle, between KV stores/memcached and RDBs.
 
 ## How is mongo?
+
+### Sharding
