@@ -17,4 +17,4 @@ Because patition tolerance is hard to not have, it's basically consistency OR av
 
 ## Life is full of trade-offs
 
-Amazon's Dynamo paper. READ IT!
+Amazon's Dynamo paper. READ IT! This basically spawned the ideas for things like Cassandra.
