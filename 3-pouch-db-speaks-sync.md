@@ -26,4 +26,4 @@ It was kind of before its time, WebSQL and IndexedDB is only just becoming stabl
 
 ## Offline is a fact, and sync is HARD.
 
-
+Why is sync hard? Bad connections/retries. Reducing transfer overhead, Master-master scenarios, conflict resolution.
