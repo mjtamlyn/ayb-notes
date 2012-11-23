@@ -6,4 +6,4 @@ Lawnchair - simple json storage.
 
 ## Phonegap
 
-Live demo time - build a phone gap app.
+Live demo time - build a phone gap app. It works. They're packaged apps which live on the device.
