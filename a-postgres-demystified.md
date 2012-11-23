@@ -37,3 +37,7 @@ Sequential scans. They're normally bad. Indexes are good most of the time. There
 `EXPLAIN SELECT FROM ...` This kinda gives you a query plan. `EXPLAIN ANALYSE` gives you the real data.
 
 So let's do a simple index - its now an index scan and we're 1.7ms.
+
+### Index pro tips
+
+`CREATE INDEX CONCURRENTLY` - does this in the background. 2-3x Slower, but useful.
