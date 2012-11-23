@@ -53,4 +53,4 @@ Well we have to join lots of stuff and all of this works on a RDBMS. This sucks 
 
 ### Schemas in MongoDB
 
-Lots of simple things for doing this built in like regexes etc. But it's schemaless so we can add new pieces of information and add new things in without it breaking.
+Lots of simple things for doing this built in like regexes etc. But it's schemaless so we can add new pieces of information and add new things in without it breaking. So it's brilliant at polymorphic data.
