@@ -50,4 +50,6 @@ Question everything about relational data design. There's no Big Design Up Front
 
 These are basically commits - many changes can happen together. There can be really long lived ones - they're called branches!
 
-### Replication!
+### Replication
+
+Every clone is a full copy of the data, and that's pretty cool.
