@@ -25,3 +25,5 @@ Range types - great for from-to timestamps. This can be used to prevent time con
 Full text search works pretty well, for a good number of rows.
 
 Low level GIS works out of the box, or use PostGIS for more advanced stuff that's optimised.
+
+## Performance
