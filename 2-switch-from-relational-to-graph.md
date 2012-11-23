@@ -63,3 +63,7 @@ Customer 'Luca'
 ```
 
 Can get sums and follow all connections to an arbitrary depth, and filter while you're at it.
+
+### Query vs travel
+
+Once you have a well connected db, you stop querying and travel instead from certain 'root' nodes.
