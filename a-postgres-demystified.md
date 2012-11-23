@@ -30,4 +30,5 @@ Low level GIS works out of the box, or use PostGIS for more advanced stuff that'
 
 Sequential scans. They're normally bad. Indexes are good most of the time. There's a few different types of index, which are useful.
 
-B-Tree
+- B-Tree: this is normally what you want.
+- GIN: great for arrays etc
