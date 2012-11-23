@@ -12,4 +12,4 @@ Live demo time - build a phone gap app. It works. They're packaged apps which li
 
 Need to know what kind of connection you're on. Carriers lie, so a new spec for measuring the actual speed. It can be Infinity. Inifinity in JS is weird. WTFJS?
 
-Lol `navigator.onLine`. Why capitalised?
+Lol `navigator.onLine`. Why capitalised???!?
