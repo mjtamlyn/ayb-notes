@@ -58,3 +58,7 @@ Lots of simple things for doing this built in like regexes etc. But it's schemal
 ### "Big data" + MongoDB = Solved
 
 Works for lots of places - Content, Ops, e-commerce, user data, high volume data...
+
+### 10gen?
+
+Own the copyright to MongoDB to keep it Open Source and working. MongoDB is the leading solution for NoSQL.
