@@ -3,3 +3,5 @@
 ### Tim Moreton, Acunu
 
 Cassandra - what is it? Why and for what? DIY real time analytics in Cassandra (and the easy option).
+
+Where did it come from? Facebook mixed up stuff from Amazon and Google and created Cassandra.
