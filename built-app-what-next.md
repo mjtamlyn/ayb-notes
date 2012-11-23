@@ -13,3 +13,5 @@ It's not easy. There's a tradeoff between scale and functionality. Mongo sits in
 ## How is mongo?
 
 ### Sharding
+
+Range distribution. Mongo splits the ranges again and automatically relocates chunks to different shards ad hoc (while keeping it consistent) to maintain load equilibrium between your shards.
