@@ -37,4 +37,8 @@ Anyway, hence **lawnchair**, which hides all this behind a better api.
 - You can use flash to set unkillable cookies.
 - window.name can be used to store unlimited data and it works for X-domain... and totally insecure.
 - Web sockets could now open a DB connection themselves. NSFL?
-- File API coming (but confusingly - File API and SystemAPI - and it needs about 6 callbacks. Room for improvement!
+- File API coming (but confusingly - File API and SystemAPI - and it needs about 6 callbacks. Room for improvement! Filer.js is a good wrapper.
+
+### FirefoxOS
+
+Gecko on a Linux kernel and running an OS inside a browser. There's a proposed Archive API which allows live updating of code.
