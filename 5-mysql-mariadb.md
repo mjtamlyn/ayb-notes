@@ -26,4 +26,6 @@ Then Sun happened. You get money but loose control. Internal decision was to go 
 
 ## Now MariaDB
 
-This is now a fork of MySQL. Developed by Monty Program Ab, which doesn't own the MariaDB project. It's a full hacking business model with the company owned by the company and is purely techincal and high level consulting.
+This is now a fork of MySQL. Developed by Monty Program Ab, which doesn't own the MariaDB project. It's a full hacking business model with the company owned by the company and is purely techincal and high level consulting. This is to ensure that MySQL of a form is available for free forever. Get a community developed and maintained brach, and share the code with other forks.
+
+SkySQL is a strategic partner who provide support/hosting.
