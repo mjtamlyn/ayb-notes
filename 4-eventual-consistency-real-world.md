@@ -35,4 +35,4 @@ Read repair means if a node goes down and there are two versions then the handle
 
 ## Divergent object versions
 
-aka siblings.
+aka siblings. Now we don't store timestamps, but that's observed.
