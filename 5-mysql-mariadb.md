@@ -21,4 +21,4 @@ Choices:
 - Sell
 - Take in investors
 
-
+Last one was the best option
