@@ -19,3 +19,5 @@ Lots of good things, but the main interesting point is master-master replication
 Designed for building offline applications. Works well offline and allows you to sync data. Sync always happens in the background.
 
 It's been developed in spurts, really busy for a while then really quiet. Lol jobs. But it's now at the point where people can (and need) to use it.
+
+New adapters in progress/newly merged. More docs etc coming.
