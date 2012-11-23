@@ -31,3 +31,5 @@ Temporal sharding worked for a while, but not for long. The new shards got far t
 Snowflake - Generate unique IDs, non-sequential but ordered. Distributed, highly available, uncoordinated.
 
 Primary storage for everything, peripheral services, multi-data center, MySQL is a building block.
+
+Gizzard is a (huge) data storage framework. On top of MySQL and provides all the bits you need. It has other stuff on top of it for specific storage problems.
