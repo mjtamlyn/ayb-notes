@@ -10,6 +10,10 @@ A revolution! We invented tools. And that's awesome. Now other animals do that, 
 
 It's amazing at storing code. How is it for data? Developed gaskit.
 
-Disclaimer: NoSQL is marketing bollocks.
+Disclaimer: NoSQL is marketing bollocks. Non-relational and often schema-less.
 
-Non-relational and often schema-less.
+1. Git as a data store
+2. Features
+3. Anti-features
+
+
