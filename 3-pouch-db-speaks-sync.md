@@ -2,4 +2,6 @@
 
 ### Dale Harvey, creator of PouchDB
 
+Firefox OS/Boot2Gecko developer, writes PouchDB, committer to CouchDB, OSS + web geek.
+
 
