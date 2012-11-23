@@ -36,4 +36,8 @@ Too much work! Where's my ORM? Some libraries: Toystore + AdapterGit or GitModel
 
 ### Versioning
 
-We can look back at previous issues really easily.
+We can look back at previous issues really easily. Related is diffs - what changed between a and b.
+
+### Hooks
+
+We can use these to update caches, alternate formats or index searches.
