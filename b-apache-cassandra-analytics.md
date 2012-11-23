@@ -7,3 +7,7 @@ Cassandra - what is it? Why and for what? DIY real time analytics in Cassandra (
 Where did it come from? Facebook mixed up stuff from Amazon and Google and created Cassandra. That was open sourced in 2008 and then went into the Apache foundation. It's big usage!
 
 Multi-master architecture, tunable consistency and great for multi-datacenter support. High performance and optimised for writes. Atomic counters.
+
+## Data model
+
+Row-key - easy to access stuff across a row. But each column can have compound keys.
